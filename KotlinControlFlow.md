@@ -1,6 +1,6 @@
 # Kontlin-Control-Flow
 
-#Enumeration
+# Enumeration
 
     fun main (){
     val color : Color = Color.RED
